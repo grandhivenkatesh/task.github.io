@@ -1,0 +1,20 @@
+[
+{
+	  "Picture":"assets/img/director.gif",
+	  "name": "Vincent Laforet",
+      "role": "DP & Director",
+      "description": "Vincent, a three-time winner at the prestigious 2010 Cannes Lions International Advertising Festival, is a director and Pulitzer Prize-winning photographer who is known for his forward-thinking approach to image-making and storytelling."
+},
+{
+	  "Picture":"assets/img/photographer-1.gif",
+	  "name": "Lucas Gilman",
+      "role": "Adventure Photographer",
+      "description": "Vincent, a three-time winner at the prestigious 2010 Cannes Lions International Advertising Festival, is a director and Pulitzer Prize-winning photographer who is known for his forward-thinking approach to image-making and storytelling."
+},
+{
+	  "Picture":"assets/img/photographer-2.gif",
+	  "name": "Dixie Dixon ",
+      "role": "Lifestyle,Fashion & Advertising Photographer",
+      "description": "Fashion photographer Dixie Dixon loves to create beautiful pictures. At the age of four , she was given her first camera and has dedicated her life to pursuing her passion..."
+}
+]
